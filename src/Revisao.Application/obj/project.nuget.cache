@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaeXPLK634/l8B3P4TgtH9nD0zzJw98gaPNfxCq58q+0NpGeEOeap5pZD7QEqjPYoJemuQEaXE5LQG9tZYvjfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria das Graças\\Desktop\\Vitor\\Faculdade\\4º Periodo\\Humberto\\2º Bimestre\\Prova\\src\\Revisao.Application\\Revisao.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria das Graças\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Maria das Graças\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
